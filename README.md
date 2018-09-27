@@ -1,4 +1,4 @@
-# PCA-and-Feature-Selection
+# PCA Dimensionality Reduction
 
 
 Projection of new direction based on maximaum variance inorder to minimize the information loss
