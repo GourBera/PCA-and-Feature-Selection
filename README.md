@@ -7,11 +7,14 @@ Transfor data points from higher dimention to transformed value
 
 variance [willingness or flexibility of an Algorithm to learn] for PCA is spread of the data distribution
 
-Small variance indicates- data points are kind of closly clustered
+### Small variance indicates- 
+Data points are kind of closly clustered
 
-Large variance indicates- data points are spreaded
+### Large variance indicates- 
+Data points are spreaded
 
-Determination of PCA- the direction that has the largest variance
+### Determination of PCA- 
+The direction that has the largest variance
 
 
 
